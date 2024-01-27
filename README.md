@@ -1,1 +1,3 @@
 # Curso-de-Python-para-educadores
+
+Bem-vindos e bem-vindas ao Curso Prático de Python para Educadores! Em um mundo cada vez mais digital, a capacidade de compreender e utilizar a linguagem de programação Python tornou-se uma habilidade valiosa. Este curso foi cuidadosamente elaborado para fornecer aos educadores as ferramentas necessárias para introduzir conceitos de programação de maneira prática e envolvente em suas salas de aula. As aulas são curtas e com exercícios bem práticos. Para o aprofundamente recomendo o canal curso em vídeo (https://www.cursoemvideo.com/) do prof. Gustavo Guanabara e a o site https://www.python.org/, onde há informações sobre a linguagem.
